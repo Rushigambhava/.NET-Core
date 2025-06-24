@@ -1,0 +1,165 @@
+
+## Ignore Visual Studio temporary files, build results, and
+## user-specific files
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# VS Code folder
+.vscode/
+
+# Rider IDE
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# DotCover
+*.dotCover
+
+# VS Code settings
+.vscode/
+
+# Build logs
+*.log
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet packages
+*.nupkg
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# Microsoft Visual Studio
+.vs/
+*.dbmdl
+*.bak
+*.backup
+*.log
+
+# Azure Pipelines
+azure-pipelines.yml
+
+# Local history for Visual Studio
+.localhistory/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# NCrunch
+*.ncrunch*
+.*crunch*.local.xml
+
+# TeamCity
+_TeamCity*
+
+# NUnit
+TestResult.xml
+nunit-*.xml
+
+# Web config transforms
+*.vshost.*
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+
+# Others
+*.cache
+*.pdb
+*.mdb
+*.opendb
+
+# dotnet watch
+**/watcher*
+
+# Local SQL Server database files
+*.mdf
+*.ldf
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# PublishWeb output
+*.Publish.xml
+*.pubxml
+*.publishproj
+
+# SQL Server files
+*.dbmdl
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IIS Express
+/.vs/
+iisexpress/
+
+# Web project publish files
+App_Data/
+
+# Backup & report files from converting an old project
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+
+# Windows Installer files
+*.msi
+*.cab
+*.msm
+*.msp
+
+# Dotnet CLI artifacts
+.project/
+*.dotnet-*
+
+# Node modules (if using frontend tools like Angular/React)
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Secrets and sensitive config
+secrets.json
+
+# Rider settings
+.idea/
+*.sln.iml
